@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @0x024
-- 👀 I’m interested in web3
-- 🌱 I’m currently learning web3
-- 💞️ I’m looking to collaborate on web3
-- 📫 How to reach me ...
-- 
+ 
 <h1 align="center">:owl: web3兼职 :rooster: </h1>
 <p align="center">========================================
 <p align="center">心有山海，静而不争</p>
